@@ -1,0 +1,20 @@
+{
+  "name": "meetup-guatemala-node18-esm-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@swc/core": "^1.3.7",
+    "@tsconfig/node18-strictest-esm": "^1.0.1",
+    "@types/node": "^18.8.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
